@@ -4,7 +4,7 @@ this web application inspired by the one already present on the Italian governme
 
 ## Installation
 
-the installation is very simple, just download the directory and start the file called "index.html"
+Just download the directory and start the file called "index.html"
 
 ## Guide
 
