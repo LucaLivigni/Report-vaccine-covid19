@@ -6,3 +6,5 @@ this web application inspired by the one already present on the Italian governme
 
 the installation is very simple, just download the directory and start the file called "index.html"
 
+![Image not found](https://lucagiannilivigni.it/assets/img/programs/vaccini.jpg)
+
